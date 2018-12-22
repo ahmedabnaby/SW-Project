@@ -1,0 +1,15 @@
+.navbar a
+{
+    color:#fff !important;
+}
+.footer
+{
+    background: #333;
+    color: #fff;
+    height: 70px;
+    text-align: center;
+    padding-top: 20px;
+    position: absolute;
+    width: 100%;
+    bottom: -18%;
+}
